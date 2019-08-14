@@ -19,6 +19,6 @@ After going through some of the steps, I'm reminded of earlier work related to J
 
 5) Also, we Incorporated and got IRS approval as a non-profit. So, what busyness stuff to do? Whatever it is, we'll have web presence and support. Hence, this work.  
 
-6) Then, restructing coming up, again, as we're expanding our scope. How to do this? I have lots of notes and blog posts done, so far. But, I started to talk to youngsters who might be interested. Looked at Trello[dot]com as an organizing means. But, I done plenty board (black and white) types. Didn't relly resonate. All this while, I've seen Kaggle (people bonkers over competition) and GitHub. This latter? Marvelous, especially since the project management stuff has been added to the collaborative schemes. 
+6) Then, restructuring coming up, again, as we're expanding our scope. How to do this? I have lots of notes and blog posts done, so far. But, I started to talk to youngsters who might be interested. Looked at Trello[dot]com as an organizing means. But, I have done plenty board (black and white) types. Didn't really resonate. All this while, I've seen Kaggle (people bonkers over competition) and GitHub. This latter? Marvelous, especially since the project management stuff has been added to the collaborative schemes. 
 
 7) ... 
