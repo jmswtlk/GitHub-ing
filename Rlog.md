@@ -1,4 +1,4 @@
-See https://jmswtlk.github.io/GitHub-ing/ to watch progress.
+See https://jmswtlk.github.io/GitHub-ing/ (and https://github.com/jmswtlk) to watch progress.
 
 ---
 
@@ -19,4 +19,7 @@ Looking to see if Jerkyll-now (forking it) will be faster. ... Also, to read: ht
 
 08/14/2019 -- brought in the default.html (into index) from the biz directory of tgsoc.org with a few changes so that it would run under github.io. So, own css and js files in operation. Now, how to best keep minimalist while meeting requirements plus kee up with the forward issues. Or, where we can look across the long decades and observe what was versus what was ignored. 
 
-... need a button that says, look at it in GitHub (grab from one of the templates) ... 
+... need a button that says, look at it in GitHub (grab from one of the templates) ... Added link to the README and Rlog (md) files. 
+
+So, with the main page settled down, we'll start to look at options. Our main focus? Content. The configuration has to fit the need and not just be a pretty face. We have too much of that on the Internet. Fit? Remember, coming out of an engineering environment with major computing involved and where form, fit, function make sense (I need to talk to the Haskell people about that last one). 
+
