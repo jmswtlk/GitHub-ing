@@ -1,0 +1,61 @@
+
+
+.button { 
+	color: rgb(0,0,0);
+	display: inline-block; 
+	outline: none; 
+	cursor: pointer;
+	text-align: center; 
+
+                  width: 70px;
+
+                  text-decoration: none; 
+	font: 14px/100% Arial, Helvetica, sans-serif; 
+	padding: .0em 0em .8em; 
+    
+}
+
+.button:hover { 
+	color: #0000ff;
+                  font-weight: bold; 
+}
+.button:active { 
+                 font-weight: bold; 
+                 color: #0000ff; 
+	font: 16px/100% Arial, Helvetica, sans-serif; 
+
+}
+
+.active {
+                 font-weight: bold; 
+	font: 18px/100% Arial, Helvetica, serif; 
+
+	display: inline-block; 
+	outline: 1px; 
+	cursor: pointer;
+	text-align: center; 
+
+                  color: #0000ff;
+
+                  width: 70px;
+
+                  text-decoration: none; 
+	padding: .0em 0em .8em; 
+}
+
+/*   sub button for main menu  */
+
+.button .wrap {
+      text-align: center; 
+      z-index: 10;       
+}
+
+#wrap ul {
+      position: absolute;
+      padding: 0;
+      list-style-type: none;
+}
+
+#wrap ul li:hover ul {
+      display: inline-block;
+}
