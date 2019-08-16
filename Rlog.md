@@ -23,3 +23,6 @@ Looking to see if Jerkyll-now (forking it) will be faster. ... Also, to read: ht
 
 So, with the main page settled down, we'll start to look at options. Our main focus? Content. The configuration has to fit the need and not just be a pretty face. We have too much of that on the Internet. Fit? Remember, coming out of an engineering environment with major computing involved and where form, fit, function make sense (I need to talk to the Haskell people about that last one). 
 
+----
+
+Note: 08/16/2019 -- Got GitHub'ing set up with our own format from the PortalToTruth. Will review this for improvement after doing a process review. Notes will be posted at the public page while re-organization goes on. 
