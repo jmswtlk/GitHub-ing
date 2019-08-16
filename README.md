@@ -22,3 +22,8 @@ After going through some of the steps, I'm reminded of earlier work related to J
 6) Then, restructuring coming up, again, as we're expanding our scope. How to do this? I have lots of notes and blog posts done, so far. But, I started to talk to youngsters who might be interested. Looked at Trello[dot]com as an organizing means. But, I have done plenty board (black and white) types. Didn't really resonate. All this while, I've seen Kaggle (people bonkers over competition) and GitHub. This latter? Marvelous, especially since the project management stuff has been added to the collaborative schemes. 
 
 7) ... 
+
+Note: 08/16/2019 -- Got GitHub'ing set up with our own format from the PortalToTruth. Will review this for improvement after doing a process review. Notes will be posted at the public page while re-organization goes on. 
+
+
+
