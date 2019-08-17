@@ -72,6 +72,7 @@
 
 .article {
   position: relative; 
+  top: 128px; 
   left: 22%; 
   width: 72%;    /* tie with nav */
   background-color: #ffffff;
