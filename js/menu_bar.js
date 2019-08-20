@@ -31,8 +31,7 @@ if (parm1==i) {
 else { 
     itext1+='<li><a class="button" href="';
     if (parm2==1 & (i == 6 || i > 8)) {
-/*       itext1+= '../' + itemArray[i][0] +'">';*/
-         itext1+= itemArray[i][0] +'">';
+           itext1+= '../' + itemArray[i][0] +'">';
            }
     else {
            itext1+= itemArray[i][0] +'">';
