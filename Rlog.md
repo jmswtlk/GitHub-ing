@@ -27,6 +27,8 @@ So, with the main page settled down, we'll start to look at options. Our main fo
 
 Notes: 
 
+08/27/2019 -- Notification of GitHub's Actions (beta) access being available. 
+
 08/26/2019 -- Working in a private area. Notice only public activity is reported. 
 
 08/19/2019 -- More aware of use, now. Such as this: https://spectrum.ieee.org/geek-life/hands-on/machine-learning-thats-light-enough-for-an-arduino. Small scale and interesting for several reasons. Saw DL (tensorflow.js) here. 
