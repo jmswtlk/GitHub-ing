@@ -60,7 +60,7 @@ div.innerHTML = itext1;
 result.appendChild(div);
 
 /* count of posts covered by year
-         There are 358 posts as of 06/28/2019
+         There are 372 posts as of 08/30/2019
 
 2010 --    9
 2011 --   22
@@ -71,8 +71,8 @@ result.appendChild(div);
 2016 --   15
 2017 --   24
 2018 --   19
-2019 --   38     
-total -- 202
+2019 --   41     
+total -- 205
 */
 
 function setIconArray (){
@@ -286,9 +286,13 @@ iconArray = [
 ['2019/07/julia-ward-howe', 'JuliaWardHowe'],
 ['2019/07/dr-frank-and-henry-viii', 'DrFrankHenryVIII'],
 ['2019/07/top-ten-things', 'TopTenThings'],
-['2019/08/ezra-pound', 'EzraPound']
+['2019/08/ezra-pound', 'EzraPound'],
+['2019/08/samuel-and-john', 'SonSamuel'],
+['2019/08/thomas-needham-gardner', 'ThomasNGardner'],
+['2019/09/3-trails', '3Trails']
 
-<!-- 2019 37 + 1 (image of Main site) -->
+<!-- 2019 40 + 1 (image of Main site) -->
+
 ]
 }
 
