@@ -25,5 +25,5 @@ After going through some of the steps, I'm reminded of earlier work related to J
 
 Note: 08/16/2019 -- Got GitHub'ing set up with our own format from the PortalToTruth. Will review this for improvement after doing a process review. Notes will be posted at the public page while re-organization goes on. 
 
-
+Note: 09/07/2019 -- 30 day, tomorrow? 
 
