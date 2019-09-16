@@ -14,7 +14,7 @@ var iconArray = new Array;
 setIconArray();
 
 var lngth = iconArray.length+1;
-var iwidth = iconArray.length * 110;
+var iwidth = iconArray.length * 108;
 
 console.log('#images = ' + lngth + ', width = ' + iwidth);
 
@@ -71,8 +71,8 @@ result.appendChild(div);
 2016 --   15
 2017 --   24
 2018 --   19
-2019 --   41     
-total -- 205
+2019 --   44     
+total -- 208
 */
 
 function setIconArray (){
@@ -289,10 +289,12 @@ iconArray = [
 ['2019/08/ezra-pound', 'EzraPound'],
 ['2019/08/samuel-and-john', 'SonSamuel'],
 ['2019/08/thomas-needham-gardner', 'ThomasNGardner'],
-['2019/09/3-trails', '3Trails']
+['2019/09/3-trails', '3Trails'],
+['2019/09/edward-iii', 'EdIIIBoris'],
+['2019/09/families-sites-and-such', 'SitesAndSuch'],
+['2019/09/charter-street-cemetery-salem-ma', 'CharterStreet']
 
-<!-- 2019 40 + 1 (image of Main site) -->
-
+<!-- 2019 43 + 1 (image of Main site) -->
 ]
 }
 
