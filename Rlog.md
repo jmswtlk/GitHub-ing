@@ -34,3 +34,5 @@ Notes:
 08/19/2019 -- More aware of use, now. Such as this: https://spectrum.ieee.org/geek-life/hands-on/machine-learning-thats-light-enough-for-an-arduino. Small scale and interesting for several reasons. Saw DL (tensorflow.js) here. 
 
 08/16/2019 -- Got GitHub'ing set up with our own format from the PortalToTruth. Will review this for improvement after doing a process review. Notes will be posted at the public page while re-organization goes on. 
+
+09/17/2019 -- Several items pending with some notion of priority coming to fore. Resources, mostly time, are always an issue. 
