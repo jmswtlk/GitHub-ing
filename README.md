@@ -27,3 +27,5 @@ Note: 08/16/2019 -- Got GitHub'ing set up with our own format from the PortalToT
 
 Note: 09/07/2019 -- 30 day, tomorrow? 
 
+Note: 09/19/2019 -- About our concept of infrastructure: https://thomasgardnerofsalem.blogspot.com/2019/09/new-infrastructure.html. This post points to a brief article on the influence of WordPress on the Internet. Againg, content for the project is varied: https://thomasgardnerofsalem.blogspot.com/2019/09/charter-street-cemetery-salem-ma.html.  
+
