@@ -36,3 +36,5 @@ Notes:
 08/16/2019 -- Got GitHub'ing set up with our own format from the PortalToTruth. Will review this for improvement after doing a process review. Notes will be posted at the public page while re-organization goes on. 
 
 09/17/2019 -- Several items pending with some notion of priority coming to fore. Resources, mostly time, are always an issue. 
+
+09/19/2019 -- Need to get back to the jekyll blog introduction, for a month ago. 
