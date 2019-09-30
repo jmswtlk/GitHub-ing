@@ -34,10 +34,10 @@ var div = document.createElement('div');
 var i;
 var dir;
 if (parm1==1){
- dir='https://tgsoc.org/icons/'
+ dir='../icons/'
 }
 else {
- dir='https://tgsoc.org/icons/'; 
+ dir='icons/'; 
 }
 
 var itext;
@@ -60,7 +60,7 @@ div.innerHTML = itext1;
 result.appendChild(div);
 
 /* count of posts covered by year
-         There are 372 posts as of 08/30/2019
+         There are 380 posts as of 09/30/2019
 
 2010 --    9
 2011 --   22
@@ -71,8 +71,8 @@ result.appendChild(div);
 2016 --   15
 2017 --   24
 2018 --   19
-2019 --   44     
-total -- 208
+2019 --   45     
+total -- 209
 */
 
 function setIconArray (){
@@ -292,9 +292,10 @@ iconArray = [
 ['2019/09/3-trails', '3Trails'],
 ['2019/09/edward-iii', 'EdIIIBoris'],
 ['2019/09/families-sites-and-such', 'SitesAndSuch'],
-['2019/09/charter-street-cemetery-salem-ma', 'CharterStreet']
+['2019/09/charter-street-cemetery-salem-ma', 'CharterStreet'],
+['2019/09/gallows-and-more', 'SidneyPerley']
 
-<!-- 2019 43 + 1 (image of Main site) -->
+<!-- 2019 44 + 1 (image of Main site) -->
 ]
 }
 
