@@ -60,7 +60,7 @@ itemArray = [
 ['https://tgsoc.org/tech/', 'Technology blog'],
 ['https://www.facebook.com/ThomasGardnerofSalem', 'FB page'],
 ['https://thomasgardnersociety.org/devlog.html', 'Devlog'],
-['https://tgsoc.org/Publications (Order)', 'Publications'],
+['https://tgsoc.org/Publications', 'Publications (Order)'],
 ['https://www.wikitree.com/wiki/Gardner-159', 'WikiTree'],
 ['https://thomasgardnersociety.org/html/search.html', 'Search'],
 ['https://tgsoc.org/ourRoll.html', 'Roll'],
