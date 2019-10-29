@@ -44,10 +44,6 @@ if (i == 6) {
   } 
 }
 
-/*  temporary pointer to Biz and Tech  */ 
-itext1 += '<br><br><li><a class="button" href="https://tgsoc.org/biz/">Biz</a>'; 
-itext1 += '<br><li><a class="button" href="https://tgsoc.org/tech/">Tech</a>'; 
-
 itext1 +='</ul>';      
 
 /* console.log(itext1); */
@@ -64,11 +60,12 @@ itemArray = [
 ['https://tgsoc.org/tech/', 'Technology blog'],
 ['https://www.facebook.com/ThomasGardnerofSalem', 'FB page'],
 ['https://thomasgardnersociety.org/devlog.html', 'Devlog'],
-['https://tgsoc.org/Publications', 'Publications'],
+['https://tgsoc.org/Publications (Order)', 'Publications'],
 ['https://www.wikitree.com/wiki/Gardner-159', 'WikiTree'],
 ['https://thomasgardnersociety.org/html/search.html', 'Search'],
 ['https://tgsoc.org/ourRoll.html', 'Roll'],
 ['https://tgsoc.org/demo', 'Demo'],
+['https://tgsoc.org/biz', 'Biz (Donate)'],
 
 ];
 
