@@ -6,4 +6,6 @@
 
 11/20/2019 -- Well, it's here. GitHub can be used to represent the floor/core in the context of the spiral of content and configuration in the various spaces with which we are familiar. Needless to say, there are many more spaces; and, I am not referring to those of the abstracted realm behind the doings of data science (machine learning, et al). That is of the configuration side, presenting interesting views to below-the-floor stuff. No way does it capture the essence, as we need to do. ... Now, floor/core? I have a lot about this on Quora and will be coordinating (with myself) on getting this stuff more organized. Briefly, I need to introduce 'psychether' and how it pertains to truth engineering which is a serious requirement being overlooked in the rush down the roads to perdition. 
 
-11/19/2019 -- Coming soon. It'll parallel this file: https://jmswtlk.github.io/GitHub-ing/blog.html. Perhaps, we'll drop text here and do the other modes in HTML/CSS/JS. 
+11/19/2019 -- Coming soon. It'll parallel the old file. Perhaps, we'll drop text here and do the other modes in HTML/CSS/JS. 
+
+For prior posts, see https://jmswtlk.github.io/GitHub-ing/blog.html. 
