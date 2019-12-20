@@ -5,6 +5,8 @@ Our first repository dealt with our application area. Some focus there was getti
 
 See https://jmswtlk.github.io/GitHub-ing/ (and https://github.com/jmswtlk) to watch progress.
 
+Will be backend'ing via Jekyll for a bit (https://github.com/jmswtlk/PortalToTruth/blob/master/README.md). 
+
 ---
 
 After going through some of the steps, I'm reminded of earlier work related to Joomla, Concrete 5, Wordpress, and a few others. So, I just now went back to see. Actually in 2014, started a technology blog with Wordpress. 
