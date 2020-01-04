@@ -35,5 +35,5 @@ Note: 09/19/2019 -- About our concept of infrastructure: https://thomasgardnerof
 
 Note: 12/19/2019 -- To date, all functions have been front-end in nature. The back-end is Linux with a file structure to support the site. We have a couple of things now that can use b-e support, albeit there will be lots more after that. We will do a file configuration first, then look at some NoSQL alternatives. 
 
-
+Note: 01/04/2020 -- So, the old guy gets it. An extension of peer-to-peer is still there, as a staple. Then, the cloud let the serverless concept get some attention. Except, we're still focused on using a Linux server for several reasons. Then, abstract services became the rage. Ah. Opened up the door to exploitation, too. You know, things have been going downhill with respect to security ever since 'static' went out the window. We need to review that history. Anyway, for the backend processing similar to what Twitter might provide, we are looking at options for development. We might just try Twitter except, then, we're back to the games that we were avoiding. Being 77, there's no an open-ended future; however, watching over the past 15-20 years, historical tidbits just pop out. So, down the pike, will comp sci learn that it has to consider history, to boot?  
 
