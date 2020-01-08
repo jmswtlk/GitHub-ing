@@ -37,4 +37,10 @@ Notes:
 
 09/17/2019 -- Several items pending with some notion of priority coming to fore. Resources, mostly time, are always an issue. 
 
-09/19/2019 -- Need to get back to the jekyll blog introduction, for a month ago. 
+09/19/2019 -- Need to get back to the jekyll blog introduction, from a month ago. 
+
+01/08/2020 -- What? Another year? Hats as metaphor for the 'floor' is very appropriate, though there are many floors that we handle, like jugglers with the balls. The culmination of the 'roll' using a static data file in several areas with different modes brought to fore the database issue, even if it's more NOSQL than not. That brings up backending which points toward remote access or, as the modern variant shows us, services as something other than the current overarching theme for the modern age. 
+
+
+
+
