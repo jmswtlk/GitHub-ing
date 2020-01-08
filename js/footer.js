@@ -9,7 +9,7 @@ var thisFullYear=String(lastUpdate.getFullYear());
 var thisYear= thisFullYear.charAt(2) + thisFullYear.charAt(3);
 
 
-var text1='<font color="white">Copyright: 2010-2019 algswtlk[at]TGSoc[dot]org';
+var text1='<font color="white">Copyright: 2010-2020 algswtlk[at]TGSoc[dot]org';
 text1 += '&nbsp;&nbsp;&nbsp;&nbsp;All Rights Reserved&nbsp;&nbsp;&nbsp;&nbsp;'; 
 text1 += 'Last modified:&nbsp;' + thisMonth + '  ' + thisDate + ',&nbsp;' + thisFullYear + '.';
 var text2 = '<br>The Thomas Gardner Society, Inc., a non-profit corporation, has IRS Sec. 501(c)(3) tax-exempt status.';
