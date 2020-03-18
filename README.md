@@ -43,3 +43,5 @@ Note: 01/31/2020 -- Just recently, I went about a week as a computer system user
 
 Note: 03/04/2020 -- Found out more about the situation. Of course, a cloud'd affair. And, an offhanded approach to a contractor. On an unofficial sampling of reactions, naturally, upper management is pushing like mad even thought the underpinnings need work. Those who have to cope as users are frustrated. Those in the middle are on several sides of the fence including those who want to back off. ... It seems that things roll and carry along those on all sides. At some point, some have to clean up the mess. Finance, by the way, is just like that with its periodic downturns. 
 
+Note: 03/17/2020 -- Lots of stuff to catch up on. And, various indications of doing right have come around the corner. 
+
