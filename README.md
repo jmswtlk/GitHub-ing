@@ -45,3 +45,5 @@ Note: 03/04/2020 -- Found out more about the situation. Of course, a cloud'd aff
 
 Note: 03/17/2020 -- Lots of stuff to catch up on. And, various indications of doing right have come around the corner. 
 
+Note: 03/28/2010 -- Mention needs to be made of the Covid-19 shuffling that we see. Meanwhile, spring keeps coming foward. 
+
