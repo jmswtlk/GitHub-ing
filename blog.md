@@ -1,4 +1,6 @@
 
+04/15/2020 -- So many things to discuss, analyze. The wealth of possible research topics has never been so great, especially those of the inter-disciplinary type that will be so important to a sustainable future. 
+
 03/18/2020 -- Time flies for the older crowd. Do we take jostlings, like COVID-19, better? Remains to be seen how well we handle this disrupting event. This will be different, going forward. One benefit will be the opportunity to look from a lifted view. 
 
 03/09/2020 -- One inspiration: https://github.com/nayuki?tab=overview&from=2007-12-01&to=2007-12-31. Several aspects of this work appeals. One example: https://www.nayuki.io/page/project-euler-solutions. From: https://www.nayuki.io/page/about. Who knew that Comp Sci (the Nayuki's coder's college work, 2007-2012) could be so much fun? 
