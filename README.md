@@ -47,3 +47,5 @@ Note: 03/17/2020 -- Lots of stuff to catch up on. And, various indications of do
 
 Note: 03/28/2010 -- Mention needs to be made of the Covid-19 shuffling that we see. Meanwhile, spring keeps coming foward. 
 
+Note: 05/01/2020 -- 3rd day of the 6th week of a 'lockdown' where we avoided others. The usual bifurcations came to fore, as we expected. So far, spent the time diving into CompSci's theoretical basis as much as I could find it covered. You know, this is about the most operationally focused of all disciplines, more engineering than science. It's time to change that. How? As mentioned elsewhere (to be re-expressed), psychology needs another look. 
+
