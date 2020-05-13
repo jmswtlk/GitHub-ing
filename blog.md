@@ -1,4 +1,6 @@
 
+05/12/2020 -- The portal (to truth) has a nice, clean, simple feel. Will continue that, perhaps with some more js. Given that, we will be reviewing our presence in general with respect to the message to convey which will be reassessed after ten years of work. 
+
 04/15/2020 -- So many things to discuss, analyze. The wealth of possible research topics has never been so great, especially those of the inter-disciplinary type that will be so important to a sustainable future. 
 
 03/18/2020 -- Time flies for the older crowd. Do we take jostlings, like COVID-19, better? Remains to be seen how well we handle this disrupting event. This will be different, going forward. One benefit will be the opportunity to look from a lifted view. 
