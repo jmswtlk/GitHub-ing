@@ -1,4 +1,6 @@
 
+06/19/2020 -- Last day of Spring of 2020. Went fast for many reasons. Our look is to the future: https://thomasgardnerofsalem.blogspot.com/2020/06/the-future.html. And, how we can leverage the knowledge over 400+ years. 
+
 05/12/2020 -- The portal (to truth) has a nice, clean, simple feel. Will continue that, perhaps with some more js. Given that, we will be reviewing our presence in general with respect to the message to convey which will be reassessed after ten years of work. 
 
 04/15/2020 -- So many things to discuss, analyze. The wealth of possible research topics has never been so great, especially those of the inter-disciplinary type that will be so important to a sustainable future. 
