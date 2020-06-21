@@ -55,3 +55,5 @@ Note: 06/07/2020 -- Some talk a line of demarcation. See recent ACM Comm article
 
 Note: 06/15/2020 -- User-centered? Means what? Methinks, it's diddling with the user; sometimes, it's actually experimenting in a one-way sense, like the infamous glass of the interrogation room. Tsk, guys, gals. Have been doing serious user work for the past few months, even prior to the lockdown, and have lots of data (observations) to add to the decade or so of dabbling across the board. So, psychether will be back on the table, with anyons, and more. 
 
+Note: 06/21/2020 -- https://thomasgardnerofsalem.blogspot.com/2020/06/the-future.html Post is title, The future, in the blog related to the historic spanse of the U.S. as represented by the flesh-and-blood of families who have endured down through the centuries through thick and thin. The pandemic introduces some uncertainty, albeit, we have seen these things from time to time (who even paid attention to the occurence 100 years ago of the so-called Spanish-Flu?), though we seem to forget. What lessons to learn from this?
+
