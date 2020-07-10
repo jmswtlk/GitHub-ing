@@ -1,4 +1,6 @@
 
+07/10/2020 -- Notice, only one post per month. Will be picking up once some responsibilities that were picked up on the spring are met. Will do an app, no doubt, related to the theme of history of the U.S. and how it relates to today and tomorrow. 
+
 06/19/2020 -- Last day of Spring of 2020. Went fast for many reasons. Our look is to the future: https://thomasgardnerofsalem.blogspot.com/2020/06/the-future.html. And, how we can leverage the knowledge over 400+ years. 
 
 05/12/2020 -- The portal (to truth) has a nice, clean, simple feel. Will continue that, perhaps with some more js. Given that, we will be reviewing our presence in general with respect to the message to convey which will be reassessed after ten years of work. 
