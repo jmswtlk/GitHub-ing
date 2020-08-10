@@ -57,3 +57,5 @@ Note: 06/15/2020 -- User-centered? Means what? Methinks, it's diddling with the 
 
 Note: 06/21/2020 -- https://thomasgardnerofsalem.blogspot.com/2020/06/the-future.html Post is title, The future, in the blog related to the historic spanse of the U.S. as represented by the flesh-and-blood of families who have endured down through the centuries through thick and thin. The pandemic introduces some uncertainty, albeit, we have seen these things from time to time (who even paid attention to the occurence 100 years ago of the so-called Spanish-Flu?), though we seem to forget. What lessons to learn from this?
 
+Note: 08/10/2020 -- The waterways, say that of the Mississippi, were major barriers for western movement. They still are, in this sense: lose a bridge an notice the local ramifications, especially in cities that are hubs of traffic, plus have a major waterway in their midst. 
+
