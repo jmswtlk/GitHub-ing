@@ -61,4 +61,5 @@ Note: 08/10/2020 -- The waterways, say that of the Mississippi, were major barri
 
 Note: 09/03/2020 -- A question might arise about the use of a minimal approach on the web where one buys into a wealth of luxurious functions that are seldom used. That is, they're played with when new and go out of sight once some new toy comes along. While, in the background, the underpinnings, are wasteful of material and energy as if these were infinitely scope'd. 
 
+Note: 09/05/2020 -- ACM Comm reports work to have cellular entities (extracted from living beings) tied into micro-ciruitry, with the adjoining applied mathematics, such that there can be movement, choice (ala learning), and such. Is that life is the question? Of late, the Ethics of Spinoza seems, to me, to be of interest. 
 
