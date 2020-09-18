@@ -1,4 +1,7 @@
 
+
+09/18/2020 -- Will get back here if I remember. Turns out that Spinoza was a computational brain, the first one from 400 years ago. More later. 
+
 08/18/2020 -- Need to get back to how the current modes force closure inapropriately while ignoring the real limits of decidable modes, meaning not as strong as expected. 
 
 08/10/2020 -- ACM Comm articles are much relevant this month. One's on extending SQL to handle linear algebraic modes, natively. Nice. Another is one entity matchin which is a fundamental operation/requirement in data science and just about any computing using databsase. Like their use of in premise, cloud, and mobile to separate out the three major modes that we see now. There are others that we mmight look at. Another article considered the issues of repeatable, replicable, and reproducible in terms of CompSci as its failure influence science, in general. 
