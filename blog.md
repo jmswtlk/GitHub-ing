@@ -1,4 +1,4 @@
-
+09/30/2020 -- Took a moment to assess the interest in Spinoza which seems to be apparent, everywhere. Found this: https://ethics.spinozism.org/. 
 
 09/18/2020 -- Will get back here if I remember. Turns out that Spinoza was a computational brain, the first one from 400 years ago. More later. 
 
