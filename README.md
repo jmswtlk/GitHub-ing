@@ -63,3 +63,5 @@ Note: 09/03/2020 -- A question might arise about the use of a minimal approach o
 
 Note: 09/05/2020 -- ACM Comm reports work to have cellular entities (extracted from living beings) tied into micro-ciruitry, with the adjoining applied mathematics, such that there can be movement, choice (ala learning), and such. Is that life is the question? Of late, the Ethics of Spinoza seems, to me, to be of interest. 
 
+Note: 12/11/2020 -- Stepped back to the math of it, namely for the purpose of the basis for truth engineering where the analog maps back to the differential geometry work related to intelligent design work. 
+
