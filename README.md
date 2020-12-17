@@ -65,4 +65,7 @@ Note: 09/05/2020 -- ACM Comm reports work to have cellular entities (extracted f
 
 Note: 12/11/2020 -- Stepped back to the math of it, namely for the purpose of the basis for truth engineering where the analog maps back to the differential geometry work related to intelligent design work. 
 
-Note: 12/15/2020 -- Two sites to watch: https://johncarlosbaez.wordpress.com/2020/10/19/epidemiological-modeling-with-structured-cospans/ and https://ncatlab.org/nlab/show/HomePage. 
+Note: 12/15/2020 -- Sites to watch: https://johncarlosbaez.wordpress.com/2020/10/19/epidemiological-modeling-with-structured-cospans/ 
+    and https://ncatlab.org/nlab/show/HomePage. 
+
+Note: 12/16/2020 -- And, https://github.com/NVlabs/stylegan2. 
