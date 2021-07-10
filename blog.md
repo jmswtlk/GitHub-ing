@@ -1,4 +1,6 @@
 
+07/10/2021 -- Took a deep dive into Deep Learning's mathematics to get to the bottom of the issues. And, now will report this. As an aside, Alan Kay, pure mathematician and developer from way back - Smalltalk, weighed in on some current affairs with regard to what John McCarthy wrought. Stay tuned. 
+
 12/15/2020 -- With respect to Baez, forgot to add this: https://ncatlab.org/nlab/show/HomePage. Example all around of things that we would like to discuss, however the focus on category theory and computationally modes thereof more than inspires. 
 
 12/13/2020 -- Was actually doing code yesterday; had it in mind to come here for an update; got too busy with the issues; no one was watching except myself; so, my clock is not under any control; even reminders don't get the attention when the domain problem is heavily grabbing the focus; ...; oh, yes, on the interplay of Haskell (and its ilk) and Lisp (and its kind with all of the wannabes), the former is exactness enforcing while the latter is free as a bird (with the 'exact' being motivated by alg top's use). 
