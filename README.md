@@ -72,3 +72,5 @@ Note: 12/16/2020 -- And, https://github.com/NVlabs/stylegan2.
 
 Note: 03/28/2021 -- Many avenues explored, spaces searched, and more. Technical is unbounded with the fact of our tenous results requiring some effort that has long been ignored. We will be getting to that. Hardy noted that 'pure' mathematics, at least, was not used in war (or in creating pestulence); from a viewpoint of the philosophy of mathematics, we see 'pure' modes of several types where one of these is pure imagination in action. Guess what? It can bounced against that which is founded upon our computational prowess so as to offer some consolation to the mind. 
 
+Note: 11/28/2022 -- Time flew? Who knew? AIn't can't Kant. That's a theme/meme. ... Attitudes are changing, on several fronts. 
+
